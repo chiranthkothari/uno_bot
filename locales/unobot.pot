@@ -49,7 +49,7 @@ msgstr ""
 
 #: actions.py:108
 #, python-brace-format
-msgid "{name} won!"
+msgid "{name} won! HaarDJ fir haar gaya!"
 msgstr ""
 
 #: actions.py:123 bot.py:119 bot.py:199 bot.py:261 bot.py:340

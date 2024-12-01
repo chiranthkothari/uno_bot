@@ -290,7 +290,7 @@ msgstr "Por favor, escolha uma cor"
 
 #: bot.py:591
 #, python-format
-msgid "{name} won!"
+msgid "{name} won! HaarDJ fir haar gaya!"
 msgstr "{name} venceu!"
 
 #: bot.py:613 bot.py:635 bot.py:647
